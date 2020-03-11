@@ -1,0 +1,4 @@
+application.name: Twitter bot
+google.spreadsheet:
+  id: <spreadsheerId>
+  credentials.file: src/main/resources/credentials.json
